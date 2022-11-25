@@ -7,6 +7,6 @@
     <title>Github Learn</title>
 </head>
 <body>
-    <h1>Ini Project awal, dan akan di kembangkan kembali</h1>
+    <h1>Ini Project awal, dan akan di kembangkan</h1>
 </body>
 </html>
